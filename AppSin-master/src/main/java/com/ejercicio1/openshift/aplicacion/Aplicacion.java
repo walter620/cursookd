@@ -1,4 +1,4 @@
-package com.inigoserrano.openshift.aplicacion;
+package com.ejercicio1.openshift.aplicacion;
 
 import java.io.IOException;
 import java.io.PrintWriter;
